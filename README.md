@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+MY name is Apolinario Manuel Sozinho
